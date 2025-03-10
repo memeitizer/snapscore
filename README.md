@@ -19,7 +19,7 @@ Efficiency will be increased by 500% assuming that we are sending snaps to 5 peo
 
 # How to Run: 
 
-```git clone -repo link here```
+```git clone https://github.com/memeitizer/snapscore.git```
 For the current codebase you have to provide the cordinates of each element from your android phone. You can go to setting open **"shop cordinates"** or **show taps**
 
 Required Software: 
